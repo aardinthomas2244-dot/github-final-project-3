@@ -1,6 +1,8 @@
+All contributions:
 Code Contributions
 This is the most common form of contribution and includes specific rules for technical work.
-Bug Fixes: Instructions on how to find existing issues, claim them, and submit a fix.Feature Requests: Guidelines for proposing new features, often requiring a discussion in an issue before implementation.Coding Standards: Details on preferred styling (e.g., indentations, naming conventions) and linting configurations.Testing: Requirements for writing and running unit tests to ensure that changes don't break existing functionality.
+Bug Fixes: 
+Instructions on how to find existing issues, claim them, and submit a fix.Feature Requests: Guidelines for proposing new features, often requiring a discussion in an issue before implementation.Coding Standards: Details on preferred styling (e.g., indentations, naming conventions) and linting configurations.Testing: Requirements for writing and running unit tests to ensure that changes don't break existing functionality.
 When adding a bug report section to your  
  file, the goal is to guide contributors to provide actionable information that minimizes back-and-forth communication. 
 What to Include in Your Description 
@@ -24,7 +26,7 @@ A strong bug report section should ask contributors to perform the following ste
 Sample Description for Your File 
 You can adapt the following text for your  
 
-: 
+bug reports: 
 How to Report a BugBefore submitting a bug report, please search existing issues to see if it has already been reported. If you find a similar open issue, please add a comment with any additional information you have instead of opening a new one.When opening an issue, please use our Bug Report Template and include:A clear and descriptive title.Steps to reproduce: A detailed list of steps to help us see the bug ourselves.Expected behavior: What you expected to happen.Actual behavior: What actually happened, including any error messages or stack traces.Environment: Your OS, version, and any other relevant setup details.Screenshots or GIFs: Visual evidence is highly appreciated! Additional Best Practices 
 
 • Security Vulnerabilities: Explicitly state that security-sensitive bugs should not be reported via public issues; provide a private contact method (like an email) instead. 
@@ -80,6 +82,8 @@ AI responses may include mistakes.
 [10] https://github.com/OpenSC/OpenSC/wiki/How-to-write-a-good-bug-report
 [11] https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template_bug-report.md
 
+
+documentation improvements:
 To improve the documentation section of a  
  file on GitHub,  
 focus on making it easy for contributors to identify gaps and follow established writing standards. Effective guidelines encourage contributions ranging from minor typo fixes to extensive technical guides. 
@@ -118,6 +122,7 @@ AI responses may include mistakes.
 [13] https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
 [14] https://github.blog/changelog/2025-08-07-contributing-guidelines-now-visible-in-repository-tab-and-sidebar/
 
+enhancements: 
 Enhancing a  
  file goes beyond just listing rules; it creates a welcoming and efficient onboarding experience for new developers. Effective enhancements focus on discoverability, clear workflows, and community engagement. 
 Essential Workflow Enhancements 
@@ -171,6 +176,8 @@ AI responses may include mistakes.
 [19] https://contributing.md/example/
 [20] https://github.com/you-dont-need/You-Dont-Need-Javascript/issues/877
 
+
+ideas are welcome:
 In a  
  file, an "Ideas are Welcome" section signals that you value community input beyond just code fixes. It encourages users to propose improvements, new features, or process changes. 
 What to Include in an "Ideas are Welcome" Section 
